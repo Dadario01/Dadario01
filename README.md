@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**Dadario01/Dadario01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Dadario01/Dadario01**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Atualmente trabalho com vendas de eletrônicos.Tenho meu própio negócio. 
+
+🌱 Atualmente estou Bacharelando em Inteligencia Artificial, na faculdade UniMax-Indaiatuba/SP.Tambem cursando Inglês.
+
+👯 Busco colaborar em projetos envolvendo tecnologia, IA aplicada a negócios e inovação digital.
+
+🤔 Preciso de ajuda para aprofundar meus conhecimentos em machine learning, projetos práticos e oportunidades na área de IA.
+
+💬 Pergunte-me sobre vendas,marketing, tecnologia, eletrônicos e inteligência artificial.
+
+📫 Como me contatar: felipeadadario@gmail.com
+
+😄 Pronomes: Ele/Dele
+
+⚡ Curiosidade: Empreendedor que decidiu mergulhar no universo da Inteligência Artificial para unir tecnologia e negócios.
+
